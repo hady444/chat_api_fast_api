@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-jose[cryptography]
+python-multipart
+motor
+redis
+pymongo
+google-generativeai
+python-dotenv
+pydantic
+httpx
+pytest
+pytest-asyncio
+pydantic-settings
+passlib
