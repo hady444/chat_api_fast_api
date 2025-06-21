@@ -1,0 +1,10 @@
+parameters:
+  pinecone_api_key: pinecone_api_key
+  pinecone_index_name: "index_name"
+  embedding_model_id: "llama-text-embed-v2"
+  pinecone_namspace: "pinecone_namspace"
+  dimension: 1024 
+  metric: "cosine"
+  k: 5
+  cloud: "aws"
+  region: "us-east-1"
